@@ -16,7 +16,6 @@ def swap_elements(array, i=1, j=2)
 end
 
 def reverse_array(array)
-  array.sort {
 end
 
 def kesha_maker(array)
